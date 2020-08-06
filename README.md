@@ -1,5 +1,7 @@
 #  Clima
-An app to get weather based on location.
+An app to get weather based on location. 
+
+>This is a companion project to The App Brewery's Complete App Development Bootcamp
 
 ## What I learn from this project
 
@@ -19,6 +21,3 @@ An app to get weather based on location.
 ## Screenshoot of the app
 ![Clima App](https://drive.google.com/uc?export=view&id=1dSj0gcQCXmfTXI1mfRoksBxwJhmJkh7v)
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
